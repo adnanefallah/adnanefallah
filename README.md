@@ -2,30 +2,47 @@
 
 🚀 Mobile & Web Developer | Passionate about building real-world applications  
 🌍 Based in Morocco | Open to Remote Work and Relocation opportunities  
-💡 Currently improving my skills in Flutter and mobile app development  
-🤝 Looking to collaborate on open-source projects and tech communities  
-📫 How to reach me: adnane.fallah.dev@gmail.com  
+💡 Currently focused on cross-platform mobile development and delivering complete app solutions  
+
+🤝 Open to collaborate on innovative projects and international tech teams  
+📫 Reach me at: adnane.fallah.dev@gmail.com  
 
 ---
 
 ## ⚡ Tech Stack
 
-- Flutter & Dart 🐦  
-- JavaScript | HTML | CSS  
-- Git & GitHub  
-- Problem Solving & Mobile App Prototyping  
+- **Mobile Development:**  
+   - Android (Java | Kotlin) 📱  
+   - iOS (Swift) 🍎  
+   - Flutter & Dart 🐦  
+
+- **Web Development:**  
+   - JavaScript | HTML | CSS  
+
+- **UI/UX:**  
+   - Building clean, user-friendly, and responsive interfaces  
+   - Applying best practices for mobile user experience  
+
+- **Backend Integration & Databases:**  
+   - ✅ API integration for connecting apps to servers (RESTful APIs)  
+   - ✅ SQLite for efficient local storage and offline capabilities  
+   - ✅ Firebase for real-time databases, authentication, and cloud services  
+
+- **Other Tools:**  
+   - Git & GitHub for version control  
+   - Debugging, testing, and mobile app prototyping  
 
 ---
 
 ## 🎯 My Goals
 
-✔️ Build innovative mobile apps  
-✔️ Learn advanced Flutter and backend integration  
-✔️ Work with international teams remotely  
-✔️ Open to job opportunities abroad (Europe, Canada, etc.)
+✔️ Build innovative, user-centered mobile apps for Android & iOS  
+✔️ Deliver full-stack mobile solutions, from UI to backend integration  
+✔️ Collaborate with international teams and contribute to open-source  
+✔️ Explore remote and relocation job opportunities in the tech industry  
 
 ---
 
 ## 💬 Fun Fact
 
-I love turning creative ideas into working apps and exploring new technologies 🚀
+I love transforming creative ideas into fully functional apps and continuously exploring the latest technologies 🚀
